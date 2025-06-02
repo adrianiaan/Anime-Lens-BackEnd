@@ -1,3 +1,8 @@
+# AnimeLens Backend - Note TEAM
+ini memang saya pisah ya untuk depelopment, karna model belum selesai saya hanya bisa sampe sini, untuk menghubungkan upload image di detect saya letakan disini juga sementara untuk file nya yang sudah terhubung ke back-end, saya bingung untuk back-end jika model belum selesai, saya tidak bisa menguji nya secara front-end dan juga secara back-end, jika semuanya sudah selesai dari model baru nanti saya jadikan 1 repository full antara FrontEnd-BackEnd dan Model ML, jika bingung chat saya di WA ok. Terimakasih.
+---
+# AnimeLens Backend - Note TEAM Install
+Untuk menggabungkan keduanya kalian bisa buat 1 folder baru lalu masukan folder Anime-Lens dan juga Folder Anime-Lens-Backend ya...
 # AnimeLens Backend
 
 Backend Express.js untuk proyek AnimeLens yang berfungsi sebagai penyimpanan sementara gambar untuk pemrosesan dan caching.
